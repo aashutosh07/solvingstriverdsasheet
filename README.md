@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0037-sudoku-solver) |
 | [0209-minimum-size-subarray-sum](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
@@ -22,8 +23,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
