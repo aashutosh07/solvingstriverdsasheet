@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0037-sudoku-solver) |
 | [0209-minimum-size-subarray-sum](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
