@@ -28,9 +28,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
