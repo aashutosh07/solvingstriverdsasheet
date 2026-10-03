@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0037-sudoku-solver) |
+| [0131-palindrome-partitioning](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/aashutosh07/solvingstriverdsasheet/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
